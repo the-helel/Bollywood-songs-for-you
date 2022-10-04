@@ -2506,5 +2506,20 @@
     "singer": ["Lata Mangeshkar", "Kishore Kumar "],
     "genre": ["Romatic"],
     "link": "https://www.youtube.com/watch?v=sPiOMuvzSI8"
- }
+ },
+   {
+      "id":89,
+      "name":"Ilahi",
+      "lyrics":"https://gaana.com/lyrics/ilahi-9",
+      "album":"Yeh Jawaani Hai Deewani",
+      "Duration":"3 min 48 sec",
+      "singer":[
+         "Pritam",
+         "Arijit Singh"
+      ],
+      "genre":[
+         "Travel"
+      ],
+      "link":"https://www.youtube.com/watch?v=fdubeMFwuGs"
+   }
 ]
